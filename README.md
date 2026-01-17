@@ -1,1 +1,1 @@
-Create an empty gameobject and call it AuthManager, attach the AuthManager script to it, and the AuthUI script, and add the required UI references to the script. Next, the SignUp and Login methods to the respective buttons.
+Create an empty gameobject and call it AuthManager, attach the AuthManager script to it, and the AuthUI script, and add the required UI references to the script. Next, call the SignUp and Login methods to the respective buttons.
